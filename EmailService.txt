@@ -1,0 +1,26 @@
+Email Sender Service
+-------------------------
+
+MVP - Minimal Viabl Product
+
+
+scope:
+
+1. User can able to send emails to other users.
+2. Only text message can be send in content.
+3. We will track number of messages sent from a user.
+
+
+
+
+Source Location: GIT
+
+Language: Java
+
+Database: postgres(RDMS)
+
+Framework: Spring Framework
+
+
+
+
