@@ -21,6 +21,15 @@ Database: postgres(RDMS)
 
 Framework: Spring Framework
 
+Language : JAVA 
+
+1. History
+
+2. Install Java in machine
+
+3. compile and run Java Program from command line
+
+4. Java Fundaments
 
 
 
